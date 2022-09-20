@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h3>Toggle</h3>
-      <Toggle />
+      <Toggle fontColor="green"/>
     </div>
   );
 }
